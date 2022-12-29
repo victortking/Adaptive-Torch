@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: lightgrey;
+}
+
+h1{
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+}
+
+
+p{
+    font-weight: bold;
+    font-size: 17px;
+}
+
+button{
+    border: none;
+    padding: 15px;
+    border-radius: 20px;
+    margin: 20px;
+}
